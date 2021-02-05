@@ -68,7 +68,7 @@ jobs:
 
           cd ~/JavaScript
 
-          node Task/.js
+          node Task/iboxpay.js
 
         env:
 
